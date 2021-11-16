@@ -12,10 +12,6 @@ void print (std::pair<int, std::string> a)
     std::cout << a.first <<std::endl;
 }
 
-void print2 (std::list<int> a)
-{
-
-}
 
 int main ()
 {
